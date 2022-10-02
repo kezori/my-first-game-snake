@@ -12,3 +12,7 @@ python 3.x
 ## How to run
 
 Just run the program by typing the following command `python main.py` or double-clicking the file `run.bat` with administrator privileges.
+
+## Game display
+![](https://raw.githubusercontent.com/kr4zym3nvn/my-first-game-snake/master/img/screen_gameplay.png)
+
